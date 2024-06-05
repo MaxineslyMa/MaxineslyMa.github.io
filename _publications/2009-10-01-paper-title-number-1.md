@@ -1,8 +1,8 @@
 ---
 #title: ""
 #collection: **Jianghong Ma**, Huiyue Sun, Dezhao Yang and Haijun Zhang, 'Personalized Fashion Recommendations for Diverse Body Shapes and Local Preferences with Contrastive Multimodal Cross-Attention Network', **ACM Transactions on Intelligent Systems and Technology**, accepted, 2023 (**ACM T-IST**).
-permalink: **Jianghong Ma**, Huiyue Sun, Dezhao Yang and Haijun Zhang, 'Personalized Fashion Recommendations for Diverse Body Shapes and Local Preferences with Contrastive Multimodal Cross-Attention Network', **ACM Transactions on Intelligent Systems and Technology**, accepted, 2023 (**ACM T-IST**).
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+#permalink: **Jianghong Ma**, Huiyue Sun, Dezhao Yang and Haijun Zhang, 'Personalized Fashion Recommendations for Diverse Body Shapes and Local Preferences with Contrastive Multimodal Cross-Attention Network', **ACM Transactions on Intelligent Systems and Technology**, accepted, 2023 (**ACM T-IST**).
+excerpt: '**Jianghong Ma**, Huiyue Sun, Dezhao Yang and Haijun Zhang, 'Personalized Fashion Recommendations for Diverse Body Shapes and Local Preferences with Contrastive Multimodal Cross-Attention Network', **ACM Transactions on Intelligent Systems and Technology**, accepted, 2023 (**ACM T-IST**).'
 #date: 2009-10-01
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
