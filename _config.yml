@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jianghong Ma/Perdonal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Jianghong Ma"
+description              : &description "Assistant Professor from Harbin Institute of Technology, Shenzhen"
 url                      : https://maxineslyma.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MaxineslyMa/MaxineslyMa.github.io"
