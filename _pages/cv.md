@@ -19,13 +19,10 @@ Work experience
 ======
 * 03.2021–now: Assistant Professor
   * Harbin Institute of Technology, Shenzhen 
- # * Duties includes: Updates and improvements to template
- # * Supervisor: The Users
 
 * 11.2018–02.2021: Postdoctoral Fellow
   * City University of Hong Kong
- # * Duties included: Merging pull requests
- # * Supervisor: Professor Hub
+  * Supervisor: Prof. Tommy W.S. Chow and Dr. Bernard Chiu
   
 #Skills
 #======
