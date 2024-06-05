@@ -2,7 +2,7 @@
 title: "Paper Title Number 2"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '**Jianghong Ma**, Huiyue Sun, Dezhao Yang and Haijun Zhang, 'Personalized Fashion Recommendations for Diverse Body Shapes and Local Preferences with Contrastive Multimodal Cross-Attention Network', **ACM Transactions on Intelligent Systems and Technology**, accepted, 2023 (**ACM T-IST**).'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
