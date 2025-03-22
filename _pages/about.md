@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute of Technology, Shenzhen. He is a member of the Big Data Technology Research Center and a Shenzhen High-Level Overseas Talent (Category C). He obtained his Ph.D. from City University of Hong Kong in 2018 and continued his postdoctoral research there from November 2018 to February 2021. In March 2021, he joined Harbin Institute of Technology, Shenzhen.
+Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute of Technology, Shenzhen. She is recognized as a Category C High-Level Overseas Talent in Shenzhen. She obtained her Ph.D. from City University of Hong Kong in 2018 and continued her postdoctoral research there from November 2018 to February 2021. In March 2021, she joined Harbin Institute of Technology, Shenzhen.
 
 
 **<font size=5>Selected Publications (Journal)</font>**
