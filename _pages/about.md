@@ -12,7 +12,7 @@ redirect_from:
 
 **<font size=10>Publications(Journal)</font>**
 
-/* indicates Corresponding Author
+/* Corresponding Author
 
 1. **Jianghong Ma**, Weixuan Kou, Mingquan Lin, Carmen C.M. Cho, and Bernard Chiu,  
   "Multimodal Image Classification by Multiview Latent Pattern Extraction, Selection and Correlation,"  
