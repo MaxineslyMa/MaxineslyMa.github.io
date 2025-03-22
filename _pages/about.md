@@ -16,47 +16,47 @@ redirect_from:
 
 1. **Jianghong Ma**, Weixuan Kou, Mingquan Lin, Carmen C.M. Cho, and Bernard Chiu,  
   "Multimodal Image Classification by Multiview Latent Pattern Extraction, Selection and Correlation,"  
-  **IEEE Transactions on Neural Networks and Learning Systems**, 35(6): 8134 - 8148, June 2024 *(IEEE T-NNLS)*.
+  **IEEE Transactions on Neural Networks and Learning Systems**, 35(6): 8134 - 8148, June 2024.
 
 2. **Jianghong Ma** and Tommy W.S. Chow,  
   "Topic-based Instance and Feature Selection in Multi-Label Classification,"  
-  **IEEE Transactions on Neural Networks and Learning Systems**, 33(1): 315-329, January 2022 *(IEEE T-NNLS)*.
+  **IEEE Transactions on Neural Networks and Learning Systems**, 33(1): 315-329, January 2022.
 
 3. **Jianghong Ma** and Tommy W.S. Chow,  
   "Topic-based Algorithm for Multi-Label Learning with Missing Labels,"  
-  **IEEE Transactions on Neural Networks and Learning Systems**, 30(7): 2138-2152, July 2019 *(IEEE T-NNLS)*.
+  **IEEE Transactions on Neural Networks and Learning Systems**, 30(7): 2138-2152, July 2019.
 
 4. **Jianghong Ma**, Bernard Chiu, and Tommy W.S. Chow,  
   "Multi-label Classification with Group-based Mapping: A Framework with Local Feature Selection and Local Label Correlation,"  
-  **IEEE Transactions on Cybernetics**, 52(6): 4596-4610, June 2022 *(IEEE T-CYB)*.
+  **IEEE Transactions on Cybernetics**, 52(6): 4596-4610, June 2022.
 
 5. **Jianghong Ma**, Tommy W.S. Chow, and Haijun Zhang,  
   "Semantic-Gap-Oriented Feature Selection and Classifier Construction in Multi-Label Learning,"  
-  **IEEE Transactions on Cybernetics**, 52(1): 101-115, January 2022 *(IEEE T-CYB)*.
+  **IEEE Transactions on Cybernetics**, 52(1): 101-115, January 2022.
 
 6. **Jianghong Ma**, Haijun Zhang, and Tommy W.S. Chow,  
   "Multi-label Classification with Label-specific Features and Classifiers: A Coarse- and Fine-tuned Framework,"  
-  **IEEE Transactions on Cybernetics**, 51(2): 1028-1042, February 2021 *(IEEE T-CYB)*.
+  **IEEE Transactions on Cybernetics**, 51(2): 1028-1042, February 2021.
 
 7. **Jianghong Ma**, Rong Wang, Tianjun Wei, Kangzhe Liu, Haijun Zhang, and Xiaolei Lu,  
   "Correlation-driven Explainable Recommendation with Aspect and Rating Boosted Representation Learning: A Unified Joint-Ranking Framework,"  
-  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 55(4): 2489-2502, April 2025 *(IEEE T-SMC)*.
+  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 55(4): 2489-2502, April 2025. 
 
 8. **Jianghong Ma**, Weixuan Kou, Mingquan Lin, Carmen C.M. Cho, and Bernard Chiu,  
   "Multiclass and Multilabel Classifications by Consensus and Complementarity-based Multiview Latent Space Projection,"  
-  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 54(3): 1705-1718, March 2024 *(IEEE T-SMC)*.
+  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 54(3): 1705-1718, March 2024. 
 
 9. **Jianghong Ma** and Tommy W.S. Chow,  
   "Latent Topic-aware Multi-Output Learning,"  
-  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 53(12): 7547-7559, December 2023 *(IEEE T-SMC)*.
+  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 53(12): 7547-7559, December 2023. 
 
 10. **Jianghong Ma**, Huiyue Sun, Dezhao Yang, and Haijun Zhang,  
   "Personalized Fashion Recommendations for Diverse Body Shapes and Local Preferences with Contrastive Multimodal Cross-Attention Network,"  
-  **ACM Transactions on Intelligent Systems and Technology**, 82: 1-21, July 2024 *(ACM T-IST)*.
+  **ACM Transactions on Intelligent Systems and Technology**, 82: 1-21, July 2024. 
 
 11. **Jianghong Ma**, Huiyue Sun, and Tong Zhu,  
   "Multiview Multilabel Classification with Group-based Feature and Label Selection,"  
-  **IEEE Transactions on Consumer Electronics**, 70(1): 3308-3317, February 2024 *(IEEE T-CE)*.
+  **IEEE Transactions on Consumer Electronics**, 70(1): 3308-3317, February 2024.
 
 12. **Jianghong Ma** and Tommy W.S. Chow,  
   "Label-Specific Feature Selection and Two-Level Label Recovery for Multi-Label Classification with Missing Labels,"  
@@ -70,35 +70,35 @@ redirect_from:
   "Multi-Label Low-dimensional Embedding with Missing Labels,"  
   **Knowledge-Based Systems**, 137: 65-82, December 2017.
 
-15. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma***,  
+15. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
    "FPSR+: Towards Robust, Efficient and Scalable Collaborative Filtering with Partition-aware Item Similarity Modeling,"  
-   **IEEE Transactions on Knowledge and Data Engineering**, 36(12): 8283-8296, December 2024 *(IEEE T-KDE)*.
+   **IEEE Transactions on Knowledge and Data Engineering**, 36(12): 8283-8296, December 2024. 
 
-16. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma***,  
+16. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
    "Modeling Self-representation Label Correlations for Textual Aspects and Emojis Recommendation,"  
-   **IEEE Transactions on Neural Networks and Learning Systems**, 34(12): 10762-10774, December 2023 *(IEEE T-NNLS)*.
+   **IEEE Transactions on Neural Networks and Learning Systems**, 34(12): 10762-10774, December 2023.
 
-17. Chenrui Ma, Huiyue Sun, **Jianghong Ma***, Haijun Zhang, Yuxin Ding, and Zhao Zhang,  
+17. Chenrui Ma, Huiyue Sun, **Jianghong Ma\***, Haijun Zhang, Yuxin Ding, and Zhao Zhang,  
    "GLOSS: Global-Local Matching Network Towards Outfit Recommendation for Diverse Body Shapes and Scenes,"  
-   **IEEE Transactions on Multimedia**, accepted 2025 *(IEEE T-MM)*.
+   **IEEE Transactions on Multimedia**, accepted 2025. 
 
-18. Haijun Zhang, Xiangyu Mu, Guojian Li, Zhenhao Xu, Xinrui Yu, and **Jianghong Ma***,  
+18. Haijun Zhang, Xiangyu Mu, Guojian Li, Zhenhao Xu, Xinrui Yu, and **Jianghong Ma\***,  
    "Mannequin2Real: A Two-Stage Generation Framework for Transforming Mannequin Images into Photorealistic Model Images for Clothing Display,"  
-   **IEEE Transactions on Consumer Electronics**, 70(1): 2773-2783, February 2024 *(IEEE T-CE)*.
+   **IEEE Transactions on Consumer Electronics**, 70(1): 2773-2783, February 2024. 
 
-19. Mingbo Zhao, Lu Cheng, Yuan Sun, and **Jianghong Ma***,  
+19. Mingbo Zhao, Lu Cheng, Yuan Sun, and **Jianghong Ma\***,  
    "Human Video Instance Segmentation and Tracking via Data Association and Single-stage Detector,"  
-   **IEEE Transactions on Consumer Electronics**, 70(1): 2979-2988, February 2024 *(IEEE T-CE)*.
+   **IEEE Transactions on Consumer Electronics**, 70(1): 2979-2988, February 2024. 
 
-20. Yang Zhao, **Jianghong Ma***, and Tommy W.S. Chow,  
+20. Yang Zhao, **Jianghong Ma\***, and Tommy W.S. Chow,  
    "Extractive Negative Opinion Summarization of Consumer Electronics Reviews,"  
-   **IEEE Transactions on Consumer Electronics**, 70(1): 3521-3528, February 2024 *(IEEE T-CE)*.
+   **IEEE Transactions on Consumer Electronics**, 70(1): 3521-3528, February 2024.
 
-21. Haijun Zhang, Xiangyu Mu, Han Yan, Lang Ren, and **Jianghong Ma***,  
+21. Haijun Zhang, Xiangyu Mu, Han Yan, Lang Ren, and **Jianghong Ma\***,  
    "A survey of online video advertising,"  
    **Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery**, 13(2): e1489, January 2023.
 
-22. Tianjun Wei, Tommy W.S. Chow, **Jianghong Ma***, and Mingbo Zhao,  
+22. Tianjun Wei, Tommy W.S. Chow, **Jianghong Ma\***, and Mingbo Zhao,  
    "ExpGCN: Review-aware Graph Convolution Network for Explainable Recommendation,"  
    **Neural Networks**, 157: 202-215, January 2023.
 
@@ -106,7 +106,10 @@ redirect_from:
    "Joint Clothes Image Detection and Search via Anchor-Free Framework,"  
    **Neural Networks**, 155: 84-94, November 2022.
 
-  **Publications(Conference)**
+  **<font size=5>Publications(Conference)</font>**
+
+  \* Corresponding Author
+
   
 
 
