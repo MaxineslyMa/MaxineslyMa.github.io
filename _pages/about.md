@@ -12,7 +12,6 @@ redirect_from:
 
 **<font size=13>Publications(Journal)</font>**
 
-<u>**First Author**</u>
 
 1. **Jianghong Ma**, Weixuan Kou, Mingquan Lin, Carmen C.M. Cho, and Bernard Chiu,  
   "Multimodal Image Classification by Multiview Latent Pattern Extraction, Selection and Correlation,"  
@@ -69,6 +68,42 @@ redirect_from:
 14. **Jianghong Ma**, Zhaoyang Tian, Haijun Zhang, and Tommy W.S. Chow,  
   "Multi-Label Low-dimensional Embedding with Missing Labels,"  
   **Knowledge-Based Systems**, 137: 65-82, December 2017.
+
+15. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma***,  
+   "FPSR+: Towards Robust, Efficient and Scalable Collaborative Filtering with Partition-aware Item Similarity Modeling,"  
+   **IEEE Transactions on Knowledge and Data Engineering**, 36(12): 8283-8296, December 2024 *(IEEE T-KDE)*.
+
+16. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma***,  
+   "Modeling Self-representation Label Correlations for Textual Aspects and Emojis Recommendation,"  
+   **IEEE Transactions on Neural Networks and Learning Systems**, 34(12): 10762-10774, December 2023 *(IEEE T-NNLS)*.
+
+17. Chenrui Ma, Huiyue Sun, **Jianghong Ma***, Haijun Zhang, Yuxin Ding, and Zhao Zhang,  
+   "GLOSS: Global-Local Matching Network Towards Outfit Recommendation for Diverse Body Shapes and Scenes,"  
+   **IEEE Transactions on Multimedia**, accepted 2025 *(IEEE T-MM)*.
+
+18. Haijun Zhang, Xiangyu Mu, Guojian Li, Zhenhao Xu, Xinrui Yu, and **Jianghong Ma***,  
+   "Mannequin2Real: A Two-Stage Generation Framework for Transforming Mannequin Images into Photorealistic Model Images for Clothing Display,"  
+   **IEEE Transactions on Consumer Electronics**, 70(1): 2773-2783, February 2024 *(IEEE T-CE)*.
+
+19. Mingbo Zhao, Lu Cheng, Yuan Sun, and **Jianghong Ma***,  
+   "Human Video Instance Segmentation and Tracking via Data Association and Single-stage Detector,"  
+   **IEEE Transactions on Consumer Electronics**, 70(1): 2979-2988, February 2024 *(IEEE T-CE)*.
+
+20. Yang Zhao, **Jianghong Ma***, and Tommy W.S. Chow,  
+   "Extractive Negative Opinion Summarization of Consumer Electronics Reviews,"  
+   **IEEE Transactions on Consumer Electronics**, 70(1): 3521-3528, February 2024 *(IEEE T-CE)*.
+
+21. Haijun Zhang, Xiangyu Mu, Han Yan, Lang Ren, and **Jianghong Ma***,  
+   "A survey of online video advertising,"  
+   **Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery**, 13(2): e1489, January 2023.
+
+22. Tianjun Wei, Tommy W.S. Chow, **Jianghong Ma***, and Mingbo Zhao,  
+   "ExpGCN: Review-aware Graph Convolution Network for Explainable Recommendation,"  
+   **Neural Networks**, 157: 202-215, January 2023.
+
+23. Mingbo Zhao, Shanchuan Gao, **Jianghong Ma***, and Zhao Zhang,  
+   "Joint Clothes Image Detection and Search via Anchor-Free Framework,"  
+   **Neural Networks**, 155: 84-94, November 2022.
 
   **Publications(Conference)**
   
