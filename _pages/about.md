@@ -12,6 +12,8 @@ redirect_from:
 
 **<font size=13>Publications(Journal)</font>**
 
+<u>**First Author**</u>
+
 1. **Jianghong Ma**, Weixuan Kou, Mingquan Lin, Carmen C.M. Cho, and Bernard Chiu,  
   "Multimodal Image Classification by Multiview Latent Pattern Extraction, Selection and Correlation,"  
   **IEEE Transactions on Neural Networks and Learning Systems**, 35(6): 8134 - 8148, June 2024 *(IEEE T-NNLS)*.
