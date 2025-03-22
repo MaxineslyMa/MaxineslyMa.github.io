@@ -66,7 +66,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
   "Robust Non-Negative Sparse Graph for Semi-Supervised Multi-Label Learning with Missing Labels,"  
   **Information Sciences**, 422: 336-351, January 2018.
 
-14. **Jianghong Ma**, Zhaoyang Tian, Haijun Zhang, and Tommy W.S. Chow,  
+#### 14. **Jianghong Ma**, Zhaoyang Tian, Haijun Zhang, and Tommy W.S. Chow,  
   "Multi-Label Low-dimensional Embedding with Missing Labels,"  
   **Knowledge-Based Systems**, 137: 65-82, December 2017.
 
