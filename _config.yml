@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jianghong Ma/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Jianghong Ma"
-description              : &description "Assistant Professor from Harbin Institute of Technology (Shenzhen)"
+description              : &description "Associate Professor from Harbin Institute of Technology (Shenzhen)"
 url                      : https://maxineslyma.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MaxineslyMa/MaxineslyMa.github.io"
@@ -207,10 +207,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
