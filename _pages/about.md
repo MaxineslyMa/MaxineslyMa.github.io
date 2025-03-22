@@ -128,7 +128,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 5. Xiping Li, **Jianghong Ma\***, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yutong Wang,  
     "Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework,"  
-    *ACM Web Conference (WWW 2024, CCF A)*, Singapore, May 13-17, 2024, pp: 3734-3744.
+    ACM Web Conference **(WWW 2024, CCF A)**, Singapore, May 13-17, 2024, pp: 3734-3744.
 
 6. Tianjun Wei, **Jianghong Ma\***, Tommy Chow,  
    "Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation,"  
