@@ -112,19 +112,19 @@ redirect_from:
 
 1. **Jianghong Ma**, Yang Liu,  
    "Topic-aware Multi-Label Classification,"  
-   *16th European Conference on Computer Vision (ECCV 2020, CORE A*)*, Glasgow, UK, August 23–28, 2020, pp: 558-573.  
+   16th European Conference on Computer Vision **(ECCV 2020, CORE A\*)**, Glasgow, UK, August 23–28, 2020, pp: 558-573.  
 
 2. Tianjun Wei, Wei Wen, Ruizhi Qiao, Xing Sun, **Jianghong Ma\***,  
    "RocketEval: Efficient Automated LLM Evaluation via Grading Checklist,"  
-   *13th International Conference on Learning Representations (ICLR 2025, CORE A*)*, Singapore, April 24-28, 2025. 
+   13th International Conference on Learning Representations **(ICLR 2025, CORE A\*)**, Singapore, April 24-28, 2025. 
 
 3. Xinyu Zhang, Shanshan Feng, **Jianghong Ma\***, Huiwei Lin, Xutao Li, Yunming Ye, Fan Li, Yew-Soon Ong,  
    "FRNet: Frequency-based Rotation Network for Long-term Time Series Forecasting,"  
-   *30th SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD 2024, CCF A)*, Barcelona, Spain, August 25-29, 2024, pp: 3586-3597.   
+   30th SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD 2024, CCF A)**, Barcelona, Spain, August 25-29, 2024, pp: 3586-3597.   
 
 4. Tianjun Wei, **Jianghong Ma\***, Tommy Chow,  
    "Collaborative Residual Metric Learning,"  
-   *46th International Conference on Research and Development in Information Retrieval (SIGIR 2023, CCF A)*, Taiwan, China, July 23-27, 2023, pp: 1107-1116.
+   46th International Conference on Research and Development in Information Retrieval **(SIGIR 2023, CCF A)**, Taiwan, China, July 23-27, 2023, pp: 1107-1116.
 
 5. Xiping Li, **Jianghong Ma\***, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yutong Wang,  
     "Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework,"  
@@ -132,22 +132,22 @@ redirect_from:
 
 6. Tianjun Wei, **Jianghong Ma\***, Tommy Chow,  
    "Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation,"  
-   *ACM Web Conference (WWW 2023, CCF A)*, Austin, Texas, USA, April 30-May 4, 2023, pp: 823-832.  
+   ACM Web Conference **(WWW 2023, CCF A)**, Austin, Texas, USA, April 30-May 4, 2023, pp: 823-832.  
 
 7. Shuai Tang, Sitao Lin, **Jianghong Ma\***, Xiaofeng Zhang,  
    "CoDeR: Counterfactual Demand Reasoning for Sequential Recommendation,"  
-   *AAAI Conference on Artificial Intelligence (AAAI 2025, CCF A)*, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025.  
+   AAAI Conference on Artificial Intelligence (AAAI 2025, CCF A)*, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025.  
 
 8. Xiaolei Lu, **Jianghong Ma\***, Haode Zhang,  
    "Asymmetric Feature Interaction for Interpreting Model Predictions,"  
-   *Findings of the Association for Computational Linguistics (ACL 2023, CCF A)*, Toronto, Canada, July 9-14, 2023, pp: 4666–4678.
+   Findings of the Association for Computational Linguistics **(ACL 2023, CCF A)**, Toronto, Canada, July 9-14, 2023, pp: 4666–4678.
 
 9. Junjie Li, **Jianghong Ma\***, Xiaofeng Zhang, Yuhang Li, Jianyang Shi,  
    "GiVE: Guiding Visual Encoder to Perceive Overlooked Information,"  
-   *IEEE International Conference on Multimedia & Expo (ICME 2025, CCF B)*, Nantes, France, June 30-July 4, 2025.  
+   IEEE International Conference on Multimedia & Expo **(ICME 2025, CCF B)**, Nantes, France, June 30-July 4, 2025.  
 
 10. Kangzhe Liu, **Jianghong Ma\***, Shanshan Feng, Haijun Zhang, Zhao Zhang,  
    "DRGame: Diversified Recommendation for Multi-category Video Games with Balanced Implicit Preferences,"  
-   *29th International Conference on Database Systems for Advanced Applications (DASFAA 2024, CCF B)*, Gifu, Japan, July 3-5, 2024, pp: 254-263.   
+    29th International Conference on Database Systems for Advanced Applications **(DASFAA 2024, CCF B)**, Gifu, Japan, July 3-5, 2024, pp: 254-263.   
 
 
