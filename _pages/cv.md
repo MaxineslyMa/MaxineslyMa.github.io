@@ -17,31 +17,14 @@ Education
 
 Work experience
 ======
-* 03.2021–now: Assistant Professor
+* 01.2025–now: Associate Professor
+  * Harbin Institute of Technology, Shenzhen
+    
+* 03.2021–12.2024: Assistant Professor
   * Harbin Institute of Technology, Shenzhen 
 
 * 11.2018–02.2021: Postdoctoral Fellow
   * City University of Hong Kong
   * Supervisor: Prof. Tommy W.S. Chow and Dr. Bernard Chiu
   
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
