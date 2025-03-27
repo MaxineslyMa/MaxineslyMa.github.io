@@ -210,6 +210,18 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 10. Kangzhe Liu, **Jianghong Ma\***, Shanshan Feng, Haijun Zhang, Zhao Zhang,  
    "DRGame: Diversified Recommendation for Multi-category Video Games with Balanced Implicit Preferences,"  
-    29th International Conference on Database Systems for Advanced Applications **(DASFAA 2024, CCF B)**, Gifu, Japan, July 3-5, 2024, pp: 254-263.   
+    29th International Conference on Database Systems for Advanced Applications **(DASFAA 2024, CCF B)**, Gifu, Japan, July 3-5, 2024, pp: 254-263.
+
+11. Jie Hou, **Jianghong Ma**, Xiangyu Mu, Haijun Zhang, Zhao Zhang,  
+   "FashionTailor: Controllable Clothing Editing for Human Images with Appearance Preserving,"  
+    AAAI Conference on Artificial Intelligence **(AAAI 2025, CCF A)**, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025.  
+
+12. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jicong Fan, and Zhao Zhang,  
+   "FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting,"  
+   Proceedings of the 31st ACM International Conference on Multimedia **(MM 2023, CCF A)**, Ottawa, Canada, October 29–November 3, 2023, pp. 7881–7889.  
+
+13. Minglong Dong, Dongliang Zhou, **Jianghong Ma**, Haijun Zhang,  
+   "Towards Intelligent Design: A Self-Driven Framework for Collocated Clothing Synthesis Leveraging Fashion Styles and Textures,"  
+   ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2024, CCF B)**, Seoul, Korea, April 14-19, 2024, pp. 3725-3729.
 
 
