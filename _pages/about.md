@@ -16,7 +16,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 1. **Jianghong Ma**, Weixuan Kou, Mingquan Lin, Carmen C.M. Cho, and Bernard Chiu,  
   "Multimodal Image Classification by Multiview Latent Pattern Extraction, Selection and Correlation,"  
-  **IEEE Transactions on Neural Networks and Learning Systems**, 35(6): 8134-8148, June 2024.
+  **IEEE Transactions on Neural Networks and Learning Systems**, 35(6): 8134-8148, June 2024. (中科院一区)
 
 2. **Jianghong Ma** and Tommy W.S. Chow,  
   "Topic-based Instance and Feature Selection in Multi-Label Classification,"  
@@ -169,6 +169,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
   **<font size=5>Selected Publications (Conference)</font>**
 
   \* Corresponding Author
+  
   \# Equal Contributions
 
 1. **Jianghong Ma**, Yang Liu,  
