@@ -99,14 +99,14 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
    **Neural Networks**, 155: 84-94, November 2022. **(中科院一区)**
 
 22. Li Dong, Haijun Zhang, **Jianghong Ma**, Xiaofei Xu, Yimin Yang, QM Jonathan Wu,
-    "CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos,"
+    "CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos," 
     **IEEE Transactions on Neural Networks and Learning Systems**, vol. 35, no. 5, pp. 6408-6422, May 2024. **(中科院一区)**
 
-23. Dongliang Zhou, Haijun Zhang, Qun Li, **Jianghong Ma**, Xiaofei Xu,
+24. Dongliang Zhou, Haijun Zhang, Qun Li, **Jianghong Ma**, Xiaofei Xu,
     "COutfitGAN: Learning to Synthesize Compatible Outfits Supervised by Silhouette Masks and Fashion Styles,"
     **IEEE Transactions on Multimedia**, vol. 25, pp. 4986-5001, 2023. **(中科院一区)**
 
-24. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jianyang Shi,
+25. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jianyang Shi,
     "BC-GAN: A Generative Adversarial Network for Synthesizing a Batch of Collocated Clothing,"
     **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 34, no. 5, pp. 3245-3259, May 2024. **(中科院一区)**
 
