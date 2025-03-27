@@ -16,39 +16,39 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 1. **Jianghong Ma**, Weixuan Kou, Mingquan Lin, Carmen C.M. Cho, and Bernard Chiu,  
   "Multimodal Image Classification by Multiview Latent Pattern Extraction, Selection and Correlation,"  
-  **IEEE Transactions on Neural Networks and Learning Systems**, 35(6): 8134-8148, June 2024. (中科院一区)
+  **IEEE Transactions on Neural Networks and Learning Systems**, 35(6): 8134-8148, June 2024. **(中科院一区)**
 
 2. **Jianghong Ma** and Tommy W.S. Chow,  
   "Topic-based Instance and Feature Selection in Multi-Label Classification,"  
-  **IEEE Transactions on Neural Networks and Learning Systems**, 33(1): 315-329, January 2022.
+  **IEEE Transactions on Neural Networks and Learning Systems**, 33(1): 315-329, January 2022. **(中科院一区)**
 
 3. **Jianghong Ma** and Tommy W.S. Chow,  
   "Topic-based Algorithm for Multi-Label Learning with Missing Labels,"  
-  **IEEE Transactions on Neural Networks and Learning Systems**, 30(7): 2138-2152, July 2019.
+  **IEEE Transactions on Neural Networks and Learning Systems**, 30(7): 2138-2152, July 2019. **(中科院一区)**
 
 4. **Jianghong Ma**, Bernard Chiu, and Tommy W.S. Chow,  
   "Multi-label Classification with Group-based Mapping: A Framework with Local Feature Selection and Local Label Correlation,"  
-  **IEEE Transactions on Cybernetics**, 52(6): 4596-4610, June 2022.
+  **IEEE Transactions on Cybernetics**, 52(6): 4596-4610, June 2022. **(中科院一区)**
 
 5. **Jianghong Ma**, Tommy W.S. Chow, and Haijun Zhang,  
   "Semantic-Gap-Oriented Feature Selection and Classifier Construction in Multi-Label Learning,"  
-  **IEEE Transactions on Cybernetics**, 52(1): 101-115, January 2022.
+  **IEEE Transactions on Cybernetics**, 52(1): 101-115, January 2022. **(中科院一区)**
 
 6. **Jianghong Ma**, Haijun Zhang, and Tommy W.S. Chow,  
   "Multi-label Classification with Label-specific Features and Classifiers: A Coarse- and Fine-tuned Framework,"  
-  **IEEE Transactions on Cybernetics**, 51(2): 1028-1042, February 2021.
+  **IEEE Transactions on Cybernetics**, 51(2): 1028-1042, February 2021. **(中科院一区)**
 
 7. **Jianghong Ma**, Rong Wang, Tianjun Wei, Kangzhe Liu, Haijun Zhang, and Xiaolei Lu,  
   "Correlation-driven Explainable Recommendation with Aspect and Rating Boosted Representation Learning: A Unified Joint-Ranking Framework,"  
-  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 55(4): 2489-2502, April 2025. 
+  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 55(4): 2489-2502, April 2025. **(中科院一区)**
 
 8. **Jianghong Ma**, Weixuan Kou, Mingquan Lin, Carmen C.M. Cho, and Bernard Chiu,  
   "Multiclass and Multilabel Classifications by Consensus and Complementarity-based Multiview Latent Space Projection,"  
-  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 54(3): 1705-1718, March 2024. 
+  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 54(3): 1705-1718, March 2024. **(中科院一区)**
 
 9. **Jianghong Ma** and Tommy W.S. Chow,  
   "Latent Topic-aware Multi-Output Learning,"  
-  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 53(12): 7547-7559, December 2023. 
+  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 53(12): 7547-7559, December 2023. **(中科院一区)**
 
 10. **Jianghong Ma**, Huiyue Sun, Dezhao Yang, and Haijun Zhang,  
   "Personalized Fashion Recommendations for Diverse Body Shapes and Local Preferences with Contrastive Multimodal Cross-Attention Network,"  
@@ -56,115 +56,115 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 11. **Jianghong Ma**, Huiyue Sun, and Tong Zhu,  
   "Multiview Multilabel Classification with Group-based Feature and Label Selection,"  
-  **IEEE Transactions on Consumer Electronics**, 70(1): 3308-3317, February 2024.
+  **IEEE Transactions on Consumer Electronics**, 70(1): 3308-3317, February 2024. (中科院二区)
 
 12. **Jianghong Ma** and Tommy W.S. Chow,  
   "Label-Specific Feature Selection and Two-Level Label Recovery for Multi-Label Classification with Missing Labels,"  
-  **Neural Networks**, 118: 110-126, October 2019.
+  **Neural Networks**, 118: 110-126, October 2019. **(中科院一区)**
 
 13. **Jianghong Ma** and Tommy W.S. Chow,  
   "Robust Non-Negative Sparse Graph for Semi-Supervised Multi-Label Learning with Missing Labels,"  
-  **Information Sciences**, 422: 336-351, January 2018.
+  **Information Sciences**, 422: 336-351, January 2018. **(中科院一区)**
 
 14. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
    "FPSR+: Towards Robust, Efficient and Scalable Collaborative Filtering with Partition-aware Item Similarity Modeling,"  
-   **IEEE Transactions on Knowledge and Data Engineering**, 36(12): 8283-8296, December 2024. 
+   **IEEE Transactions on Knowledge and Data Engineering**, 36(12): 8283-8296, December 2024. **(中科院一区, CCF A)**
 
 15. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
    "Modeling Self-representation Label Correlations for Textual Aspects and Emojis Recommendation,"  
-   **IEEE Transactions on Neural Networks and Learning Systems**, 34(12): 10762-10774, December 2023.
+   **IEEE Transactions on Neural Networks and Learning Systems**, 34(12): 10762-10774, December 2023. **(中科院一区)**
 
 16. Chenrui Ma, Huiyue Sun, **Jianghong Ma\***, Haijun Zhang, Yuxin Ding, and Zhao Zhang,  
    "GLOSS: Global-Local Matching Network Towards Outfit Recommendation for Diverse Body Shapes and Scenes,"  
-   **IEEE Transactions on Multimedia**, accepted 2025. 
+   **IEEE Transactions on Multimedia**, accepted 2025. **(中科院一区)**
 
 17. Haijun Zhang, Xiangyu Mu, Guojian Li, Zhenhao Xu, Xinrui Yu, and **Jianghong Ma\***,  
    "Mannequin2Real: A Two-Stage Generation Framework for Transforming Mannequin Images into Photorealistic Model Images for Clothing Display,"  
-   **IEEE Transactions on Consumer Electronics**, 70(1): 2773-2783, February 2024. 
+   **IEEE Transactions on Consumer Electronics**, 70(1): 2773-2783, February 2024. (中科院二区)
 
 18. Mingbo Zhao, Lu Cheng, Yuan Sun, and **Jianghong Ma\***,  
    "Human Video Instance Segmentation and Tracking via Data Association and Single-stage Detector,"  
-   **IEEE Transactions on Consumer Electronics**, 70(1): 2979-2988, February 2024. 
+   **IEEE Transactions on Consumer Electronics**, 70(1): 2979-2988, February 2024. (中科院二区)
 
 19. Yang Zhao, **Jianghong Ma\***, and Tommy W.S. Chow,  
    "Extractive Negative Opinion Summarization of Consumer Electronics Reviews,"  
-   **IEEE Transactions on Consumer Electronics**, 70(1): 3521-3528, February 2024.
+   **IEEE Transactions on Consumer Electronics**, 70(1): 3521-3528, February 2024. (中科院二区)
 
 20. Tianjun Wei, Tommy W.S. Chow, **Jianghong Ma\***, and Mingbo Zhao,  
    "ExpGCN: Review-aware Graph Convolution Network for Explainable Recommendation,"  
-   **Neural Networks**, 157: 202-215, January 2023.
+   **Neural Networks**, 157: 202-215, January 2023. **(中科院一区)**
 
 21. Mingbo Zhao, Shanchuan Gao, **Jianghong Ma***, and Zhao Zhang,  
    "Joint Clothes Image Detection and Search via Anchor-Free Framework,"  
-   **Neural Networks**, 155: 84-94, November 2022.
+   **Neural Networks**, 155: 84-94, November 2022. **(中科院一区)**
 
 22. Li Dong, Haijun Zhang, **Jianghong Ma**, Xiaofei Xu, Yimin Yang, QM Jonathan Wu,
     "CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos,"
-    **IEEE Transactions on Neural Networks and Learning Systems**, vol. 35, no. 5, pp. 6408-6422, May 2024.  
+    **IEEE Transactions on Neural Networks and Learning Systems**, vol. 35, no. 5, pp. 6408-6422, May 2024. **(中科院一区)**
 
 23. Dongliang Zhou, Haijun Zhang, Qun Li, **Jianghong Ma**, Xiaofei Xu,
     "COutfitGAN: Learning to Synthesize Compatible Outfits Supervised by Silhouette Masks and Fashion Styles**,"
-    **IEEE Transactions on Multimedia**, vol. 25, pp. 4986-5001, 2023.  
+    **IEEE Transactions on Multimedia**, vol. 25, pp. 4986-5001, 2023. **(中科院一区)**
 
 24. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jianyang Shi,
     "BC-GAN: A Generative Adversarial Network for Synthesizing a Batch of Collocated Clothing,"
-    **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 34, no. 5, pp. 3245-3259, May 2024.  
+    **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 34, no. 5, pp. 3245-3259, May 2024. **(中科院一区)**
 
 25. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
     "Texture Brush for Fashion Inspiration Transfer: A Generative Adversarial Network With Heatmap-Guided Semantic Disentanglement,"
-    **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 33, no. 5, pp. 2381-2395, May 2023.  
+    **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 33, no. 5, pp. 2381-2395, May 2023. **(中科院一区)** 
 
 26. Linlin Liu, Haijun Zhang, Qun Li, **Jianghong Ma**, and Zhao Zhang,
     "Collocated Clothing Synthesis with GANs Aided by Textual Information: A Multi-Modal Framework,"
-    **ACM Transactions on Multimedia Computing, Communications, and Applications**, vol. 20, no. 1, Article 26 (January 2024), pp. 1-25.  
+    **ACM Transactions on Multimedia Computing, Communications, and Applications**, vol. 20, no. 1, Article 26 (January 2024), pp. 1-25. (CCF B) 
 
 27. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**, and Xiaofei Xu,
     "Toward Intelligent Fashion Design: A Texture and Shape Disentangled Generative Adversarial Network,"
-    **ACM Transactions on Multimedia Computing, Communications, and Applications**, vol. 19, no. 3, Article 107 (May 2023), pp. 1-23.  
+    **ACM Transactions on Multimedia Computing, Communications, and Applications**, vol. 19, no. 3, Article 107 (May 2023), pp. 1-23. (CCF B) 
 
 28. Linshan Jia, Tommy W.S. Chow, Yu Wang, **Jianghong Ma**,
     "Dynamic Balanced Dual Prototypical Domain Generalization for Cross-Machine Fault Diagnosis,"
-    **IEEE Transactions on Instrumentation and Measurement**, vol. 73, pp. 1-10, 2024, Art no. 3516610.  
+    **IEEE Transactions on Instrumentation and Measurement**, vol. 73, pp. 1-10, 2024, Art no. 3516610. (中科院二区)
 
 29. Qun Li, Haijun Zhang, Kai Yang, Wei Dai, **Jianghong Ma**, Yuping Liu,
     "CorPN: Corner Prediction Network for Visual Tracking,"
-    **IEEE Transactions on Consumer Electronics**, accepted, 2025.  
+    **IEEE Transactions on Consumer Electronics**, accepted, 2025. (中科院二区)
 
 30. Li Dong, Haijun Zhang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
     "CCTwins: A Weakly Supervised Transformer-Based Crowd Counting Method With Adaptive Scene Consistency Attention,"
-    **IEEE Transactions on Consumer Electronics**, vol. 70, no. 1, pp. 22-35, Feb. 2024.  
+    **IEEE Transactions on Consumer Electronics**, vol. 70, no. 1, pp. 22-35, Feb. 2024. (中科院二区) 
 
 31. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
     "Mixing and Matching Elements for Intelligent Fashion Design: A Generative Adversarial Network With Structure and Texture Disentanglement,"
-    **IEEE Transactions on Consumer Electronics**, vol. 70, no. 1, pp. 358-370, Feb. 2024.  
+    **IEEE Transactions on Consumer Electronics**, vol. 70, no. 1, pp. 358-370, Feb. 2024. (中科院二区) 
 
 32. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**, Xiaofei Xu,
     "Inspiration Transfer for Intelligent Design: A Generative Adversarial Network With Fashion Attributes Disentanglement,"
-    **IEEE Transactions on Consumer Electronics**, vol. 69, no. 4, pp. 1152-1163, Nov. 2023.  
+    **IEEE Transactions on Consumer Electronics**, vol. 69, no. 4, pp. 1152-1163, Nov. 2023. (中科院二区) 
 
 33. Kai Yang, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
     "BANDT: A Border-Aware Network With Deformable Transformers for Visual Tracking,"
-    **IEEE Transactions on Consumer Electronics**, vol. 69, no. 3, pp. 377-390, Aug. 2023.  
+    **IEEE Transactions on Consumer Electronics**, vol. 69, no. 3, pp. 377-390, Aug. 2023. (中科院二区) 
 
 34. Li Dong, Haijun Zhang, Kai Yang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
     "Crowd Counting by Using Top-k Relations: A Mixed Ground-Truth CNN Framework,"
-    **IEEE Transactions on Consumer Electronics**, vol. 68, no. 3, pp. 307-316, Aug. 2022.  
+    **IEEE Transactions on Consumer Electronics**, vol. 68, no. 3, pp. 307-316, Aug. 2022. (中科院二区)
 
 35. Xiangyu Mu, Haijun Zhang, Jianyang Shi, Jie Hou, **Jianghong Ma**, Yimin Yang,
     "Fashion Intelligence in the Metaverse: Promise and Future Prospects,"
-    **Artificial Intelligence Review**, vol. 57, no. 3, pp. 67, Feb. 2024.  
+    **Artificial Intelligence Review**, vol. 57, no. 3, pp. 67, Feb. 2024. **(中科院一区)**
 
 36. Yueyue Yao, **Jianghong Ma**, Yunming Ye,
     "Regularizing Autoencoders with Wavelet Transform for Sequence Anomaly Detection,"
-    **Pattern Recognition**, vol. 134, pp. 109084, Feb. 2023.  
+    **Pattern Recognition**, vol. 134, pp. 109084, Feb. 2023. **(中科院一区)**
 
 37. Yueyue Yao, **Jianghong Ma**, Shanshan Feng, Yunming Ye,
     "SVD-AE: An Asymmetric Autoencoder with SVD Regularization for Multivariate Time Series Anomaly Detection,"
-    **Neural Networks**, vol. 170, pp. 535-547, Feb. 2024.  
+    **Neural Networks**, vol. 170, pp. 535-547, Feb. 2024. **(中科院一区)**
 
 38. Kai Yang, Haijun Zhang, Dongliang Zhou, Li Dong, **Jianghong Ma**,
     "IASA: An IoU-Aware Tracker with Adaptive Sample Assignment,"
-    **Neural Networks**, vol. 161, pp. 267-280, April 2023.   
+    **Neural Networks**, vol. 161, pp. 267-280, April 2023. **(中科院一区)**
 
   **<font size=5>Selected Publications (Conference)</font>**
 
@@ -206,11 +206,11 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 9. Junjie Li, **Jianghong Ma\***, Xiaofeng Zhang, Yuhang Li, Jianyang Shi,  
    "GiVE: Guiding Visual Encoder to Perceive Overlooked Information,"  
-   IEEE International Conference on Multimedia & Expo **(ICME 2025, CCF B)**, Nantes, France, June 30-July 4, 2025.  
+   IEEE International Conference on Multimedia & Expo (ICME 2025, CCF B), Nantes, France, June 30-July 4, 2025.  
 
 10. Kangzhe Liu, **Jianghong Ma\***, Shanshan Feng, Haijun Zhang, Zhao Zhang,  
    "DRGame: Diversified Recommendation for Multi-category Video Games with Balanced Implicit Preferences,"  
-    29th International Conference on Database Systems for Advanced Applications **(DASFAA 2024, CCF B)**, Gifu, Japan, July 3-5, 2024, pp: 254-263.
+    29th International Conference on Database Systems for Advanced Applications (DASFAA 2024, CCF B), Gifu, Japan, July 3-5, 2024, pp: 254-263.
 
 11. Jie Hou, **Jianghong Ma**, Xiangyu Mu, Haijun Zhang, Zhao Zhang,  
    "FashionTailor: Controllable Clothing Editing for Human Images with Appearance Preserving,"  
@@ -222,6 +222,6 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 13. Minglong Dong, Dongliang Zhou, **Jianghong Ma**, Haijun Zhang,  
    "Towards Intelligent Design: A Self-Driven Framework for Collocated Clothing Synthesis Leveraging Fashion Styles and Textures,"  
-   ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing **(ICASSP 2024, CCF B)**, Seoul, Korea, April 14-19, 2024, pp. 3725-3729.
+   ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024, CCF B), Seoul, Korea, April 14-19, 2024, pp. 3725-3729.
 
 
