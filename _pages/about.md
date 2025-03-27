@@ -103,66 +103,66 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
     **IEEE Transactions on Neural Networks and Learning Systems**, vol. 35, no. 5, pp. 6408-6422, May 2024. **(中科院一区)**
 
 23. Dongliang Zhou, Haijun Zhang, Qun Li, **Jianghong Ma**, Xiaofei Xu,
-    "COutfitGAN: Learning to Synthesize Compatible Outfits Supervised by Silhouette Masks and Fashion Styles**,"
+    "COutfitGAN: Learning to Synthesize Compatible Outfits Supervised by Silhouette Masks and Fashion Styles,"
     **IEEE Transactions on Multimedia**, vol. 25, pp. 4986-5001, 2023. **(中科院一区)**
 
 24. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jianyang Shi,
     "BC-GAN: A Generative Adversarial Network for Synthesizing a Batch of Collocated Clothing,"
     **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 34, no. 5, pp. 3245-3259, May 2024. **(中科院一区)**
 
-25. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
+26. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
     "Texture Brush for Fashion Inspiration Transfer: A Generative Adversarial Network With Heatmap-Guided Semantic Disentanglement,"
     **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 33, no. 5, pp. 2381-2395, May 2023. **(中科院一区)** 
 
-26. Linlin Liu, Haijun Zhang, Qun Li, **Jianghong Ma**, and Zhao Zhang,
+28. Linlin Liu, Haijun Zhang, Qun Li, **Jianghong Ma**, and Zhao Zhang,
     "Collocated Clothing Synthesis with GANs Aided by Textual Information: A Multi-Modal Framework,"
     **ACM Transactions on Multimedia Computing, Communications, and Applications**, vol. 20, no. 1, Article 26 (January 2024), pp. 1-25. (CCF B) 
 
-27. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**, and Xiaofei Xu,
+30. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**, and Xiaofei Xu,
     "Toward Intelligent Fashion Design: A Texture and Shape Disentangled Generative Adversarial Network,"
     **ACM Transactions on Multimedia Computing, Communications, and Applications**, vol. 19, no. 3, Article 107 (May 2023), pp. 1-23. (CCF B) 
 
-28. Linshan Jia, Tommy W.S. Chow, Yu Wang, **Jianghong Ma**,
+32. Linshan Jia, Tommy W.S. Chow, Yu Wang, **Jianghong Ma**,
     "Dynamic Balanced Dual Prototypical Domain Generalization for Cross-Machine Fault Diagnosis,"
     **IEEE Transactions on Instrumentation and Measurement**, vol. 73, pp. 1-10, 2024, Art no. 3516610. (中科院二区)
 
-29. Qun Li, Haijun Zhang, Kai Yang, Wei Dai, **Jianghong Ma**, Yuping Liu,
+34. Qun Li, Haijun Zhang, Kai Yang, Wei Dai, **Jianghong Ma**, Yuping Liu,
     "CorPN: Corner Prediction Network for Visual Tracking,"
     **IEEE Transactions on Consumer Electronics**, accepted, 2025. (中科院二区)
 
-30. Li Dong, Haijun Zhang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
+36. Li Dong, Haijun Zhang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
     "CCTwins: A Weakly Supervised Transformer-Based Crowd Counting Method With Adaptive Scene Consistency Attention,"
     **IEEE Transactions on Consumer Electronics**, vol. 70, no. 1, pp. 22-35, Feb. 2024. (中科院二区) 
 
-31. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
+38. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
     "Mixing and Matching Elements for Intelligent Fashion Design: A Generative Adversarial Network With Structure and Texture Disentanglement,"
     **IEEE Transactions on Consumer Electronics**, vol. 70, no. 1, pp. 358-370, Feb. 2024. (中科院二区) 
 
-32. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**, Xiaofei Xu,
+40. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**, Xiaofei Xu,
     "Inspiration Transfer for Intelligent Design: A Generative Adversarial Network With Fashion Attributes Disentanglement,"
     **IEEE Transactions on Consumer Electronics**, vol. 69, no. 4, pp. 1152-1163, Nov. 2023. (中科院二区) 
 
-33. Kai Yang, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
+42. Kai Yang, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
     "BANDT: A Border-Aware Network With Deformable Transformers for Visual Tracking,"
     **IEEE Transactions on Consumer Electronics**, vol. 69, no. 3, pp. 377-390, Aug. 2023. (中科院二区) 
 
-34. Li Dong, Haijun Zhang, Kai Yang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
+44. Li Dong, Haijun Zhang, Kai Yang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
     "Crowd Counting by Using Top-k Relations: A Mixed Ground-Truth CNN Framework,"
     **IEEE Transactions on Consumer Electronics**, vol. 68, no. 3, pp. 307-316, Aug. 2022. (中科院二区)
 
-35. Xiangyu Mu, Haijun Zhang, Jianyang Shi, Jie Hou, **Jianghong Ma**, Yimin Yang,
+46. Xiangyu Mu, Haijun Zhang, Jianyang Shi, Jie Hou, **Jianghong Ma**, Yimin Yang,
     "Fashion Intelligence in the Metaverse: Promise and Future Prospects,"
     **Artificial Intelligence Review**, vol. 57, no. 3, pp. 67, Feb. 2024. **(中科院一区)**
 
-36. Yueyue Yao, **Jianghong Ma**, Yunming Ye,
+48. Yueyue Yao, **Jianghong Ma**, Yunming Ye,
     "Regularizing Autoencoders with Wavelet Transform for Sequence Anomaly Detection,"
     **Pattern Recognition**, vol. 134, pp. 109084, Feb. 2023. **(中科院一区)**
 
-37. Yueyue Yao, **Jianghong Ma**, Shanshan Feng, Yunming Ye,
+50. Yueyue Yao, **Jianghong Ma**, Shanshan Feng, Yunming Ye,
     "SVD-AE: An Asymmetric Autoencoder with SVD Regularization for Multivariate Time Series Anomaly Detection,"
     **Neural Networks**, vol. 170, pp. 535-547, Feb. 2024. **(中科院一区)**
 
-38. Kai Yang, Haijun Zhang, Dongliang Zhou, Li Dong, **Jianghong Ma**,
+52. Kai Yang, Haijun Zhang, Dongliang Zhou, Li Dong, **Jianghong Ma**,
     "IASA: An IoU-Aware Tracker with Adaptive Sample Assignment,"
     **Neural Networks**, vol. 161, pp. 267-280, April 2023. **(中科院一区)**
 
