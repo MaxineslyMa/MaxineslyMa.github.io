@@ -169,6 +169,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
   **<font size=5>Selected Publications (Conference)</font>**
 
   \* Corresponding Author
+  \# Equal Contributions
 
 1. **Jianghong Ma**, Yang Liu,  
    "Topic-aware Multi-Label Classification,"  
@@ -186,7 +187,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
    "Collaborative Residual Metric Learning,"  
    46th International Conference on Research and Development in Information Retrieval **(SIGIR 2023, CCF A)**, Taiwan, China, July 23-27, 2023, pp: 1107-1116.
 
-5. Xiping Li, **Jianghong Ma\***, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yutong Wang,  
+5. Xiping Li <font color="red">(Undergraduate)</font>, **Jianghong Ma\***, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yutong Wang,  
     "Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework,"  
     ACM Web Conference **(WWW 2024, CCF A)**, Singapore, May 13-17, 2024, pp: 3734-3744.
 
@@ -194,7 +195,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
    "Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation,"  
    ACM Web Conference **(WWW 2023, CCF A)**, Austin, Texas, USA, April 30-May 4, 2023, pp: 823-832.  
 
-7. Shuai Tang, Sitao Lin, **Jianghong Ma\***, Xiaofeng Zhang,  
+7. Shuai Tang\#, Sitao Lin\# <font color="red">(Undergraduate)</font>, **Jianghong Ma\***, Xiaofeng Zhang,  
    "CoDeR: Counterfactual Demand Reasoning for Sequential Recommendation,"  
    AAAI Conference on Artificial Intelligence **(AAAI 2025, CCF A)**, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025.  
 
