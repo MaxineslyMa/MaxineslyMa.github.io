@@ -182,7 +182,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
    13th International Conference on Learning Representations **(ICLR 2025, CORE A\*)**, Singapore, April 24-28, 2025. 
 
 3. Xinyu Zhang, Shanshan Feng, **Jianghong Ma\***, Huiwei Lin, Xutao Li, Yunming Ye, Fan Li, Yew-Soon Ong,  
-   "FRNet: Frequency-based Rotation Network for Long-term Time Series Forecasting," 
+   "FRNet: Frequency-based Rotation Network for Long-term Time Series Forecasting,"   
    30th SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD 2024, CCF A)**, Barcelona, Spain, August 25-29, 2024, pp: 3586-3597.   
 
 4. Tianjun Wei, **Jianghong Ma\***, Tommy Chow,  
