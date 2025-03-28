@@ -111,7 +111,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
     **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 34, no. 5, pp. 3245-3259, May 2024. **(中科院一区)**
 
 25. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
-    "Texture Brush for Fashion Inspiration Transfer: A Generative Adversarial Network With Heatmap-Guided Semantic Disentanglement,"
+    "Texture Brush for Fashion Inspiration Transfer: A Generative Adversarial Network With Heatmap-Guided Semantic Disentanglement,"<br>
     **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 33, no. 5, pp. 2381-2395, May 2023. **(中科院一区)** 
 
 26. Linlin Liu, Haijun Zhang, Qun Li, **Jianghong Ma**, and Zhao Zhang,
@@ -151,19 +151,19 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
     **IEEE Transactions on Consumer Electronics**, vol. 68, no. 3, pp. 307-316, Aug. 2022. (中科院二区)
 
 35. Xiangyu Mu, Haijun Zhang, Jianyang Shi, Jie Hou, **Jianghong Ma**, Yimin Yang,
-    "Fashion Intelligence in the Metaverse: Promise and Future Prospects,"
+    "Fashion Intelligence in the Metaverse: Promise and Future Prospects,"<br>
     **Artificial Intelligence Review**, vol. 57, no. 3, pp. 67, Feb. 2024. **(中科院一区)**
 
 36. Yueyue Yao, **Jianghong Ma**, Yunming Ye,
-    "Regularizing Autoencoders with Wavelet Transform for Sequence Anomaly Detection,"
+    "Regularizing Autoencoders with Wavelet Transform for Sequence Anomaly Detection,"<br>
     **Pattern Recognition**, vol. 134, pp. 109084, Feb. 2023. **(中科院一区)**
 
 37. Yueyue Yao, **Jianghong Ma**, Shanshan Feng, Yunming Ye,
-    "SVD-AE: An Asymmetric Autoencoder with SVD Regularization for Multivariate Time Series Anomaly Detection,"
+    "SVD-AE: An Asymmetric Autoencoder with SVD Regularization for Multivariate Time Series Anomaly Detection,"<br>
     **Neural Networks**, vol. 170, pp. 535-547, Feb. 2024. **(中科院一区)**
 
 38. Kai Yang, Haijun Zhang, Dongliang Zhou, Li Dong, **Jianghong Ma**,
-    "IASA: An IoU-Aware Tracker with Adaptive Sample Assignment,"
+    "IASA: An IoU-Aware Tracker with Adaptive Sample Assignment,"<br>
     **Neural Networks**, vol. 161, pp. 267-280, April 2023. **(中科院一区)**
 
 
