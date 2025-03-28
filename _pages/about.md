@@ -99,7 +99,8 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
    **Neural Networks**, 155: 84-94, November 2022. **(中科院一区)**
 
 22. Li Dong, Haijun Zhang, **Jianghong Ma**, Xiaofei Xu, Yimin Yang, QM Jonathan Wu,
-    "CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos," 
+    "CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos,"
+      **Neural Networks**, 155: 84-94, November 2022. **(中科院一区)**
     **IEEE Transactions on Neural Networks and Learning Systems**, vol. 35, no. 5, pp. 6408-6422, May 2024. **(中科院一区)**
 
 24. Dongliang Zhou, Haijun Zhang, Qun Li, **Jianghong Ma**, Xiaofei Xu,
