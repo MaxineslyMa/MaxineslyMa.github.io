@@ -199,7 +199,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 7. Shuai Tang\#, Sitao Lin\# <font color="red">(Undergraduate)</font>, **Jianghong Ma\***, Xiaofeng Zhang,  
    "CoDeR: Counterfactual Demand Reasoning for Sequential Recommendation,"   
-   AAAI Conference on Artificial Intelligence **(AAAI 2025, CCF A)**, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025, pp: 12649-1265.  
+   AAAI Conference on Artificial Intelligence **(AAAI 2025, CCF A)**, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025, pp: 12649-12657.  
 
 8. Xiaolei Lu, **Jianghong Ma\***, Haode Zhang,  
    "Asymmetric Feature Interaction for Interpreting Model Predictions,"    
