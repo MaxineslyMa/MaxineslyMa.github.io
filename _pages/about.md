@@ -175,53 +175,57 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 1. **Jianghong Ma**, Yang Liu,  
    "Topic-aware Multi-Label Classification,"  
-   16th European Conference on Computer Vision **(ECCV 2020, CORE A\*)**, Glasgow, UK, August 23–28, 2020, pp: 558-573.  
+   16th European Conference on Computer Vision **(ECCV 2020, CORE A\*)**, Glasgow, UK, August 23–28, 2020, pp: 558-573.
 
-2. Tianjun Wei, Wei Wen, Ruizhi Qiao, Xing Sun, **Jianghong Ma\***,  
+2. Jingmao Zhang\# <font color="red">(Undergraduate)</font>, Zhiting Zhao\#, Yunqi Lin, **Jianghong Ma\***, Tianjun Wei, Haijun Zhang, Xiaofeng Zhang,
+   “Dual-Phase Playtime-guided Recommendation: Interest Intensity Exploration and Multimodal Random Walks”,
+   33rd ACM International Conference on Multimedia **((ACM Multimedia 2025, CCF A)**(, Dublin, Ireland, October 27-31, 2025, accepted.
+   
+3. Tianjun Wei, Wei Wen, Ruizhi Qiao, Xing Sun, **Jianghong Ma\***,  
    "RocketEval: Efficient Automated LLM Evaluation via Grading Checklist,"  
    13th International Conference on Learning Representations **(ICLR 2025, CORE A\*)**, Singapore, April 24-28, 2025. 
 
-3. Xinyu Zhang, Shanshan Feng, **Jianghong Ma\***, Huiwei Lin, Xutao Li, Yunming Ye, Fan Li, Yew-Soon Ong,  
+4. Xinyu Zhang, Shanshan Feng, **Jianghong Ma\***, Huiwei Lin, Xutao Li, Yunming Ye, Fan Li, Yew-Soon Ong,  
    "FRNet: Frequency-based Rotation Network for Long-term Time Series Forecasting,"     
    30th SIGKDD Conference on Knowledge Discovery and Data Mining **(SIGKDD 2024, CCF A)**, Barcelona, Spain, August 25-29, 2024, pp: 3586-3597.   
 
-4. Tianjun Wei, **Jianghong Ma\***, Tommy Chow,  
+5. Tianjun Wei, **Jianghong Ma\***, Tommy Chow,  
    "Collaborative Residual Metric Learning,"    
    46th International Conference on Research and Development in Information Retrieval **(SIGIR 2023, CCF A)**, Taiwan, China, July 23-27, 2023, pp: 1107-1116.
 
-5. Xiping Li <font color="red">(Undergraduate)</font>, **Jianghong Ma\***, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yutong Wang,  
+6. Xiping Li <font color="red">(Undergraduate)</font>, **Jianghong Ma\***, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yutong Wang,  
     "Category-based and Popularity-guided Video Game Recommendation: A Balance-oriented Framework,"    
     ACM Web Conference **(WWW 2024, CCF A)**, Singapore, May 13-17, 2024, pp: 3734-3744.
 
-6. Tianjun Wei, **Jianghong Ma\***, Tommy Chow,  
+7. Tianjun Wei, **Jianghong Ma\***, Tommy Chow,  
    "Fine-tuning Partition-aware Item Similarities for Efficient and Scalable Recommendation,"    
    ACM Web Conference **(WWW 2023, CCF A)**, Austin, Texas, USA, April 30-May 4, 2023, pp: 823-832.  
 
-7. Shuai Tang\#, Sitao Lin\# <font color="red">(Undergraduate)</font>, **Jianghong Ma\***, Xiaofeng Zhang,  
+8. Shuai Tang\#, Sitao Lin\# <font color="red">(Undergraduate)</font>, **Jianghong Ma\***, Xiaofeng Zhang,  
    "CoDeR: Counterfactual Demand Reasoning for Sequential Recommendation,"   
    AAAI Conference on Artificial Intelligence **(AAAI 2025, CCF A)**, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025, pp: 12649-12657.  
 
-8. Xiaolei Lu, **Jianghong Ma\***, Haode Zhang,  
+9. Xiaolei Lu, **Jianghong Ma\***, Haode Zhang,  
    "Asymmetric Feature Interaction for Interpreting Model Predictions,"    
    Findings of the Association for Computational Linguistics **(ACL 2023, CCF A)**, Toronto, Canada, July 9-14, 2023, pp: 4666–4678.
 
-9. Junjie Li, **Jianghong Ma\***, Xiaofeng Zhang, Yuhang Li, Jianyang Shi,  
+10. Junjie Li, **Jianghong Ma\***, Xiaofeng Zhang, Yuhang Li, Jianyang Shi,  
    "GiVE: Guiding Visual Encoder to Perceive Overlooked Information,"    
    IEEE International Conference on Multimedia & Expo (ICME 2025, CCF B), Nantes, France, June 30-July 4, 2025.  
 
-10. Kangzhe Liu, **Jianghong Ma\***, Shanshan Feng, Haijun Zhang, Zhao Zhang,  
+11. Kangzhe Liu, **Jianghong Ma\***, Shanshan Feng, Haijun Zhang, Zhao Zhang,  
    "DRGame: Diversified Recommendation for Multi-category Video Games with Balanced Implicit Preferences,"    
     29th International Conference on Database Systems for Advanced Applications (DASFAA 2024, CCF B), Gifu, Japan, July 3-5, 2024, pp: 254-263.
 
-11. Jie Hou, **Jianghong Ma**, Xiangyu Mu, Haijun Zhang, Zhao Zhang,  
+12. Jie Hou, **Jianghong Ma**, Xiangyu Mu, Haijun Zhang, Zhao Zhang,  
    "FashionTailor: Controllable Clothing Editing for Human Images with Appearance Preserving,"    
     AAAI Conference on Artificial Intelligence **(AAAI 2025, CCF A)**, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025, pp: 3509-3517.  
 
-12. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jicong Fan, and Zhao Zhang,  
+13. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jicong Fan, and Zhao Zhang,  
    "FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting,"    
    Proceedings of the 31st ACM International Conference on Multimedia **(MM 2023, CCF A)**, Ottawa, Canada, October 29–November 3, 2023, pp. 7881–7889.  
 
-13. Minglong Dong, Dongliang Zhou, **Jianghong Ma**, Haijun Zhang,  
+14. Minglong Dong, Dongliang Zhou, **Jianghong Ma**, Haijun Zhang,  
    "Towards Intelligent Design: A Self-Driven Framework for Collocated Clothing Synthesis Leveraging Fashion Styles and Textures,"    
    ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024, CCF B), Seoul, Korea, April 14-19, 2024, pp. 3725-3729.
 
