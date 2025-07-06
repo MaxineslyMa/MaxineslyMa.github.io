@@ -177,7 +177,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
    "Topic-aware Multi-Label Classification,"  
    16th European Conference on Computer Vision **(ECCV 2020, CORE A\*)**, Glasgow, UK, August 23–28, 2020, pp: 558-573.
 
-2. Jingmao Zhang\# <font color="red">(Undergraduate)</font>, Zhiting Zhao\#, Yunqi Lin, **Jianghong Ma\***, Tianjun Wei, Haijun Zhang, Xiaofeng Zhang,
+2. Jingmao Zhang\# <font color="red">(Undergraduate)</font>, Zhiting Zhao\#, Yunqi Lin, **Jianghong Ma\***, Tianjun Wei, Haijun Zhang, Xiaofeng Zhang,  
    “Dual-Phase Playtime-guided Recommendation: Interest Intensity Exploration and Multimodal Random Walks”,
    33rd ACM International Conference on Multimedia **(ACM Multimedia 2025, CCF A)**, Dublin, Ireland, October 27-31, 2025, accepted.
    
