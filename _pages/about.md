@@ -166,7 +166,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
     "Regularizing Autoencoders with Wavelet Transform for Sequence Anomaly Detection,"<br>
     **Pattern Recognition**, vol. 134, pp. 109084, Feb. 2023. **(中科院一区)**
 
-39. Xiangyu Mu, Haijun Zhang, **Jianghong Ma**, Zhao Zhang, Lin Jiang, Xiao Chen, Feng Jiang，
+39. Xiangyu Mu, Haijun Zhang, **Jianghong Ma**, Zhao Zhang, Lin Jiang, Xiao Chen, Feng Jiang，   
     "Wp-VTON: A wrinkle-preserving virtual try-on network via clothing texture book,"<br>
     **Neural Networks**, vol. 189, pp. 107546, September 2025. **(中科院一区)**
 
