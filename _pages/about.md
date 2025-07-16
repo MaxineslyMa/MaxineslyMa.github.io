@@ -166,15 +166,19 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
     "Regularizing Autoencoders with Wavelet Transform for Sequence Anomaly Detection,"<br>
     **Pattern Recognition**, vol. 134, pp. 109084, Feb. 2023. **(中科院一区)**
 
-39. Yueyue Yao, **Jianghong Ma**, Shanshan Feng, Yunming Ye,  
+39. Xiangyu Mu, Haijun Zhang, **Jianghong Ma**, Zhao Zhang, Lin Jiang, Xiao Chen, Feng Jiang，
+    "Wp-VTON: A wrinkle-preserving virtual try-on network via clothing texture book,"<br>
+    **Neural Networks**, vol. 189, pp. 107546, September 2025. **(中科院一区)**
+
+40. Yueyue Yao, **Jianghong Ma**, Shanshan Feng, Yunming Ye,  
     "SVD-AE: An Asymmetric Autoencoder with SVD Regularization for Multivariate Time Series Anomaly Detection,"<br>
     **Neural Networks**, vol. 170, pp. 535-547, Feb. 2024. **(中科院一区)**
 
-40. Kai Yang, Haijun Zhang, Dongliang Zhou, Li Dong, **Jianghong Ma**,
+41. Kai Yang, Haijun Zhang, Dongliang Zhou, Li Dong, **Jianghong Ma**,  
     "IASA: An IoU-Aware Tracker with Adaptive Sample Assignment,"<br>
     **Neural Networks**, vol. 161, pp. 267-280, April 2023. **(中科院一区)**
 
-41. Yueyue Yao, **Jianghong Ma**, Yunming Ye,  
+42. Yueyue Yao, **Jianghong Ma**, Yunming Ye,  
     "KfreqGAN: Unsupervised detection of sequence anomaly with adversarial learning and frequency domain information,"<br>
     **Knowledge-Based Systems**, 236: 107757, January 2022. **(中科院一区)**
 
