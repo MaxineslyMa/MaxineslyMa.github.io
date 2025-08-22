@@ -102,7 +102,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
    "Joint Clothes Image Detection and Search via Anchor-Free Framework,"  
    **Neural Networks**, 155: 84-94, November 2022. **(中科院一区)**
     
-23. Haijun Zhang, Xiangyu Mu, Han Yan, Lang Ren and **Jianghong Ma\***,  
+23. Haijun Zhang, Xiangyu Mu, Han Yan, Lang Ren, **Jianghong Ma\***,  
     "A survey of online video advertising,"  
    **Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery**, 13(2): e1489, January 2023. (中科院二区)
     
@@ -136,7 +136,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 31. Qun Li, Haijun Zhang, Kai Yang, Wei Dai, **Jianghong Ma**, Yuping Liu,
     "CorPN: Corner Prediction Network for Visual Tracking,"<br>
-    **IEEE Transactions on Consumer Electronics**, accepted, 2025. (中科院二区)
+    **IEEE Transactions on Consumer Electronics**, vol. 71, no. 2, pp. 3129-3142, May 2025. (中科院二区)
 
 32. Li Dong, Haijun Zhang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
     "CCTwins: A Weakly Supervised Transformer-Based Crowd Counting Method With Adaptive Scene Consistency Attention,"<br>
