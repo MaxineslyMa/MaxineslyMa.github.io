@@ -195,7 +195,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 2. Jingmao Zhang\# <font color="red">(Undergraduate)</font>, Zhiting Zhao\#, Yunqi Lin, **Jianghong Ma\***, Tianjun Wei, Haijun Zhang, Xiaofeng Zhang,  
    “Dual-Phase Playtime-guided Recommendation: Interest Intensity Exploration and Multimodal Random Walks”,
-   33rd ACM International Conference on Multimedia **(ACM Multimedia 2025, CCF A)**, Dublin, Ireland, October 27-31, 2025, accepted.
+   33rd ACM International Conference on Multimedia **(ACM Multimedia 2025, CCF A)**, Dublin, Ireland, October 27-31, 2025, pp: 6232-6241.
    
 3. Tianjun Wei, Wei Wen, Ruizhi Qiao, Xing Sun, **Jianghong Ma\***,  
    "RocketEval: Efficient Automated LLM Evaluation via Grading Checklist,"  
