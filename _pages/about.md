@@ -241,7 +241,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
     "A 8pW Noise Interference-Free Dual-Output Voltage Reference for Implantable Medical Devices,"  
     2022 IEEE International Symposium on Product Compliance Engineering-Asia **(ISPCE-ASIA 2022, Best Paper Award)**, Guangzhou, China, November 04-06, 2022, pp: 1-6.
 
-13. Pengfei Jia, Jianghong Ma, Baoquan Zhang, Kenghong Lin, Xinyu Zhang, Luo Chuyao, Xutao Li, Yunming Ye,
+13. Pengfei Jia, **Jianghong Ma**, Baoquan Zhang, Kenghong Lin, Xinyu Zhang, Luo Chuyao, Xutao Li, Yunming Ye,
     "Satellite-Text-Prompted Large Language Model for Photovoltaic Power Forecasting,"
     AAAI Conference on Artificial Intelligence **(AAAI 2026, CCF A)**, Singapore, January 20-27, 2026, pp: .  
     
