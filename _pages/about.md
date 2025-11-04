@@ -240,16 +240,20 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 12. Yang Liu, **Jianghong Ma\***, Guangqian Zhu and Kangzhe Liu,  
     "A 8pW Noise Interference-Free Dual-Output Voltage Reference for Implantable Medical Devices,"  
     2022 IEEE International Symposium on Product Compliance Engineering-Asia **(ISPCE-ASIA 2022, Best Paper Award)**, Guangzhou, China, November 04-06, 2022, pp: 1-6.
+
+13. Pengfei Jia, Jianghong Ma, Baoquan Zhang, Kenghong Lin, Xinyu Zhang, Luo Chuyao, Xutao Li, Yunming Ye,
+    "Satellite-Text-Prompted Large Language Model for Photovoltaic Power Forecasting,"
+    AAAI Conference on Artificial Intelligence **(AAAI 2026, CCF A)**, Singapore, January 20-27, 2026, pp: .  
     
-13. Jie Hou, **Jianghong Ma**, Xiangyu Mu, Haijun Zhang, Zhao Zhang,  
+14. Jie Hou, **Jianghong Ma**, Xiangyu Mu, Haijun Zhang, Zhao Zhang,  
    "FashionTailor: Controllable Clothing Editing for Human Images with Appearance Preserving,"    
     AAAI Conference on Artificial Intelligence **(AAAI 2025, CCF A)**, Philadelphia, Pennsylvania, USA, February 25-March 4, 2025, pp: 3509-3517.  
 
-14. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jicong Fan, and Zhao Zhang,  
+15. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jicong Fan, and Zhao Zhang,  
    "FCBoost-Net: A Generative Network for Synthesizing Multiple Collocated Outfits via Fashion Compatibility Boosting,"    
    Proceedings of the 31st ACM International Conference on Multimedia **(MM 2023, CCF A)**, Ottawa, Canada, October 29–November 3, 2023, pp. 7881–7889.  
 
-15. Minglong Dong, Dongliang Zhou, **Jianghong Ma**, Haijun Zhang,  
+16. Minglong Dong, Dongliang Zhou, **Jianghong Ma**, Haijun Zhang,  
    "Towards Intelligent Design: A Self-Driven Framework for Collocated Clothing Synthesis Leveraging Fashion Styles and Textures,"    
    ICASSP 2024 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024, CCF B), Seoul, Korea, April 14-19, 2024, pp. 3725-3729.
 
