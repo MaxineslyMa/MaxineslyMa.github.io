@@ -134,7 +134,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
     "Dynamic Balanced Dual Prototypical Domain Generalization for Cross-Machine Fault Diagnosis,"<br>
     **IEEE Transactions on Instrumentation and Measurement**, vol. 73, pp. 1-10, 2024, Art no. 3516610. (中科院二区)
 
-31. Chenrui Ma, Yuxin Ding, Haijun Zhang, Jianghong Ma, Zhao Zhang, Ye Wang, Fei Tao,
+31. Chenrui Ma, Yuxin Ding, Haijun Zhang, **Jianghong Ma**, Zhao Zhang, Ye Wang, Fei Tao,
     "Fine-Grained Offline Ranking for Short Video Advertisements CTR via Visual-and Audio-Based Features,"<br>
     **IEEE Transactions on Consumer Electronics**, accepted 2025. (中科院二区)
 
