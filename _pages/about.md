@@ -69,124 +69,128 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 14. **Jianghong Ma**, Zhaoyang Tian,  Haijun Zhang and Tommy W.S. Chow,  
   "Multi-Label Low-dimensional Embedding with Missing Labels,"  
   **Knowledge-Based Systems**, 137: 65-82, December 2017. **(中科院一区)**
+
+15. Xiping Li, Aier Yang, **Jianghong Ma\***, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao,  
+    "CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations,"  
+    **ACM Transactions on Information Systems**, accepted 2025. **(CCF A)**    
     
-15. Sitao Lin\# <font color="red">(Undergraduate)</font>, Shuai Tang\#, Xiaofeng Zhang, **Jianghong Ma\***, Ziao Wang,  
+16. Sitao Lin\# <font color="red">(Undergraduate)</font>, Shuai Tang\#, Xiaofeng Zhang, **Jianghong Ma\***, Ziao Wang,  
     "CoDeR+: Interest-aware Counterfactual Reasoning for Sequential Recommendation,"  
     **ACM Transactions on Information Systems**, accepted 2025. **(CCF A)**
       
-16. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
+17. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
    "FPSR+: Towards Robust, Efficient and Scalable Collaborative Filtering with Partition-aware Item Similarity Modeling," 
    **IEEE Transactions on Knowledge and Data Engineering**, 36(12): 8283-8296, December 2024. **(中科院一区, CCF A)**
 
-17. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
+18. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
    "Modeling Self-representation Label Correlations for Textual Aspects and Emojis Recommendation,"  
    **IEEE Transactions on Neural Networks and Learning Systems**, 34(12): 10762-10774, December 2023. **(中科院一区)**
 
-18. Chenrui Ma, Huiyue Sun, **Jianghong Ma\***, Haijun Zhang, Yuxin Ding, and Zhao Zhang,  
+19. Chenrui Ma, Huiyue Sun, **Jianghong Ma\***, Haijun Zhang, Yuxin Ding, and Zhao Zhang,  
    "GLOSS: Global-Local Matching Network Towards Outfit Recommendation for Diverse Body Shapes and Scenes,"  
    **IEEE Transactions on Multimedia**, accepted 2025. **(中科院一区)**
 
-19. Haijun Zhang, Xiangyu Mu, Guojian Li, Zhenhao Xu, Xinrui Yu, and **Jianghong Ma\***,  
+20. Haijun Zhang, Xiangyu Mu, Guojian Li, Zhenhao Xu, Xinrui Yu, and **Jianghong Ma\***,  
    "Mannequin2Real: A Two-Stage Generation Framework for Transforming Mannequin Images into Photorealistic Model Images for Clothing Display,"  
    **IEEE Transactions on Consumer Electronics**, 70(1): 2773-2783, February 2024. (中科院二区)
 
-20. Mingbo Zhao, Lu Cheng, Yuan Sun, and **Jianghong Ma\***,  
+21. Mingbo Zhao, Lu Cheng, Yuan Sun, and **Jianghong Ma\***,  
    "Human Video Instance Segmentation and Tracking via Data Association and Single-stage Detector,"  
    **IEEE Transactions on Consumer Electronics**, 70(1): 2979-2988, February 2024. (中科院二区)
 
-21. Yang Zhao, **Jianghong Ma\***, and Tommy W.S. Chow,  
+22. Yang Zhao, **Jianghong Ma\***, and Tommy W.S. Chow,  
    "Extractive Negative Opinion Summarization of Consumer Electronics Reviews,"  
    **IEEE Transactions on Consumer Electronics**, 70(1): 3521-3528, February 2024. (中科院二区)
 
-22. Tianjun Wei, Tommy W.S. Chow, **Jianghong Ma\***, and Mingbo Zhao,  
+23. Tianjun Wei, Tommy W.S. Chow, **Jianghong Ma\***, and Mingbo Zhao,  
    "ExpGCN: Review-aware Graph Convolution Network for Explainable Recommendation,"  
    **Neural Networks**, 157: 202-215, January 2023. **(中科院一区)**
 
-23. Mingbo Zhao, Shanchuan Gao, **Jianghong Ma\***, and Zhao Zhang,  
+24. Mingbo Zhao, Shanchuan Gao, **Jianghong Ma\***, and Zhao Zhang,  
    "Joint Clothes Image Detection and Search via Anchor-Free Framework,"  
    **Neural Networks**, 155: 84-94, November 2022. **(中科院一区)**
     
-24. Haijun Zhang, Xiangyu Mu, Han Yan, Lang Ren, **Jianghong Ma\***,  
+25. Haijun Zhang, Xiangyu Mu, Han Yan, Lang Ren, **Jianghong Ma\***,  
     "A survey of online video advertising,"  
    **Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery**, 13(2): e1489, January 2023. (中科院二区)
     
-25. Li Dong, Haijun Zhang, **Jianghong Ma**, Xiaofei Xu, Yimin Yang, QM Jonathan Wu,
+26. Li Dong, Haijun Zhang, **Jianghong Ma**, Xiaofei Xu, Yimin Yang, QM Jonathan Wu,
     "CLRNet: A Cross Locality Relation Network for Crowd Counting in Videos,"<br>
     **IEEE Transactions on Neural Networks and Learning Systems**, vol. 35, no. 5, pp. 6408-6422, May 2024. **(中科院一区)**
 
-26. Dongliang Zhou, Haijun Zhang, Qun Li, **Jianghong Ma**, Xiaofei Xu,
+27. Dongliang Zhou, Haijun Zhang, Qun Li, **Jianghong Ma**, Xiaofei Xu,
     "COutfitGAN: Learning to Synthesize Compatible Outfits Supervised by Silhouette Masks and Fashion Styles,"<br>
     **IEEE Transactions on Multimedia**, vol. 25, pp. 4986-5001, 2023. **(中科院一区)**
 
-27. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jianyang Shi,
+28. Dongliang Zhou, Haijun Zhang, **Jianghong Ma**, Jianyang Shi,
     "BC-GAN: A Generative Adversarial Network for Synthesizing a Batch of Collocated Clothing,"<br>
     **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 34, no. 5, pp. 3245-3259, May 2024. **(中科院一区)**
 
-28. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
+29. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
     "Texture Brush for Fashion Inspiration Transfer: A Generative Adversarial Network With Heatmap-Guided Semantic Disentanglement,"<br>
     **IEEE Transactions on Circuits and Systems for Video Technology**, vol. 33, no. 5, pp. 2381-2395, May 2023. **(中科院一区)** 
 
-29. Linlin Liu, Haijun Zhang, Qun Li, **Jianghong Ma**, and Zhao Zhang,
+30. Linlin Liu, Haijun Zhang, Qun Li, **Jianghong Ma**, and Zhao Zhang,
     "Collocated Clothing Synthesis with GANs Aided by Textual Information: A Multi-Modal Framework,"<br>
     **ACM Transactions on Multimedia Computing, Communications, and Applications**, vol. 20, no. 1, Article 26 (January 2024), pp. 1-25. (CCF B) 
 
-30. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**, and Xiaofei Xu,
+31. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**, and Xiaofei Xu,
     "Toward Intelligent Fashion Design: A Texture and Shape Disentangled Generative Adversarial Network,"<br>
     **ACM Transactions on Multimedia Computing, Communications, and Applications**, vol. 19, no. 3, Article 107 (May 2023), pp. 1-23. (CCF B) 
 
-31. Linshan Jia, Tommy W.S. Chow, Yu Wang, **Jianghong Ma**,
+32. Linshan Jia, Tommy W.S. Chow, Yu Wang, **Jianghong Ma**,
     "Dynamic Balanced Dual Prototypical Domain Generalization for Cross-Machine Fault Diagnosis,"<br>
     **IEEE Transactions on Instrumentation and Measurement**, vol. 73, pp. 1-10, 2024, Art no. 3516610. (中科院二区)
 
-32. Chenrui Ma, Yuxin Ding, Haijun Zhang, **Jianghong Ma**, Zhao Zhang, Ye Wang, Fei Tao,
+33. Chenrui Ma, Yuxin Ding, Haijun Zhang, **Jianghong Ma**, Zhao Zhang, Ye Wang, Fei Tao,
     "Fine-Grained Offline Ranking for Short Video Advertisements CTR via Visual-and Audio-Based Features,"<br>
     **IEEE Transactions on Consumer Electronics**, accepted 2025. (中科院二区)
 
-33. Qun Li, Haijun Zhang, Kai Yang, Wei Dai, **Jianghong Ma**, Yuping Liu,
+34. Qun Li, Haijun Zhang, Kai Yang, Wei Dai, **Jianghong Ma**, Yuping Liu,
     "CorPN: Corner Prediction Network for Visual Tracking,"<br>
     **IEEE Transactions on Consumer Electronics**, vol. 71, no. 2, pp. 3129-3142, May 2025. (中科院二区)
 
-34. Li Dong, Haijun Zhang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
+35. Li Dong, Haijun Zhang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
     "CCTwins: A Weakly Supervised Transformer-Based Crowd Counting Method With Adaptive Scene Consistency Attention,"<br>
     **IEEE Transactions on Consumer Electronics**, vol. 70, no. 1, pp. 22-35, Feb. 2024. (中科院二区) 
 
-35. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
+36. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
     "Mixing and Matching Elements for Intelligent Fashion Design: A Generative Adversarial Network With Structure and Texture Disentanglement,"<br>
     **IEEE Transactions on Consumer Electronics**, vol. 70, no. 1, pp. 358-370, Feb. 2024. (中科院二区) 
 
-36. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**, Xiaofei Xu,
+37. Han Yan, Haijun Zhang, Jianyang Shi, **Jianghong Ma**, Xiaofei Xu,
     "Inspiration Transfer for Intelligent Design: A Generative Adversarial Network With Fashion Attributes Disentanglement,"<br>
     **IEEE Transactions on Consumer Electronics**, vol. 69, no. 4, pp. 1152-1163, Nov. 2023. (中科院二区) 
 
-37. Kai Yang, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
+38. Kai Yang, Haijun Zhang, Jianyang Shi, **Jianghong Ma**,
     "BANDT: A Border-Aware Network With Deformable Transformers for Visual Tracking,"<br>
     **IEEE Transactions on Consumer Electronics**, vol. 69, no. 3, pp. 377-390, Aug. 2023. (中科院二区) 
 
-38. Li Dong, Haijun Zhang, Kai Yang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
+39. Li Dong, Haijun Zhang, Kai Yang, Dongliang Zhou, Jianyang Shi, **Jianghong Ma**,
     "Crowd Counting by Using Top-k Relations: A Mixed Ground-Truth CNN Framework,"<br>
     **IEEE Transactions on Consumer Electronics**, vol. 68, no. 3, pp. 307-316, Aug. 2022. (中科院二区)
 
-39. Xiangyu Mu, Haijun Zhang, Jianyang Shi, Jie Hou, **Jianghong Ma**, Yimin Yang,
+40. Xiangyu Mu, Haijun Zhang, Jianyang Shi, Jie Hou, **Jianghong Ma**, Yimin Yang,
     "Fashion Intelligence in the Metaverse: Promise and Future Prospects,"<br>
     **Artificial Intelligence Review**, vol. 57, no. 3, pp. 67, Feb. 2024. **(中科院一区)**
 
-40. Yueyue Yao, **Jianghong Ma**, Yunming Ye,
+41. Yueyue Yao, **Jianghong Ma**, Yunming Ye,
     "Regularizing Autoencoders with Wavelet Transform for Sequence Anomaly Detection,"<br>
     **Pattern Recognition**, vol. 134, pp. 109084, Feb. 2023. **(中科院一区)**
 
-41. Xiangyu Mu, Haijun Zhang, **Jianghong Ma**, Zhao Zhang, Lin Jiang, Xiao Chen, Feng Jiang，   
+42. Xiangyu Mu, Haijun Zhang, **Jianghong Ma**, Zhao Zhang, Lin Jiang, Xiao Chen, Feng Jiang，   
     "Wp-VTON: A wrinkle-preserving virtual try-on network via clothing texture book,"<br>
     **Neural Networks**, vol. 189, pp. 107546, September 2025. **(中科院一区)**
 
-42. Yueyue Yao, **Jianghong Ma**, Shanshan Feng, Yunming Ye,  
+43. Yueyue Yao, **Jianghong Ma**, Shanshan Feng, Yunming Ye,  
     "SVD-AE: An Asymmetric Autoencoder with SVD Regularization for Multivariate Time Series Anomaly Detection,"<br>
     **Neural Networks**, vol. 170, pp. 535-547, Feb. 2024. **(中科院一区)**
 
-43. Kai Yang, Haijun Zhang, Dongliang Zhou, Li Dong, **Jianghong Ma**,  
+44. Kai Yang, Haijun Zhang, Dongliang Zhou, Li Dong, **Jianghong Ma**,  
     "IASA: An IoU-Aware Tracker with Adaptive Sample Assignment,"<br>
     **Neural Networks**, vol. 161, pp. 267-280, April 2023. **(中科院一区)**
 
-44. Yueyue Yao, **Jianghong Ma**, Yunming Ye,  
+45. Yueyue Yao, **Jianghong Ma**, Yunming Ye,  
     "KfreqGAN: Unsupervised detection of sequence anomaly with adversarial learning and frequency domain information,"<br>
     **Knowledge-Based Systems**, 236: 107757, January 2022. **(中科院一区)**
 
