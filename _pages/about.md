@@ -70,7 +70,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
   "Multi-Label Low-dimensional Embedding with Missing Labels,"  
   **Knowledge-Based Systems**, 137: 65-82, December 2017. **(中科院一区)**
 
-15. Xiping Li, Aier Yang, **Jianghong Ma\***, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao,  
+15. Xiping Li <font color="red">(Undergraduate)</font>, Aier Yang, **Jianghong Ma\***, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao,  
     "CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations,"  
     **ACM Transactions on Information Systems**, accepted 2025. **(CCF A)**    
     
