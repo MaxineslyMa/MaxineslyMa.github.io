@@ -79,7 +79,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
     **ACM Transactions on Information Systems**, accepted 2025. **(CCF A)**
       
 17. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
-   "FPSR+: Towards Robust, Efficient and Scalable Collaborative Filtering with Partition-aware Item Similarity Modeling," 
+   "FPSR+: Towards Robust, Efficient and Scalable Collaborative Filtering with Partition-aware Item Similarity Modeling,"  
    **IEEE Transactions on Knowledge and Data Engineering**, 36(12): 8283-8296, December 2024. **(中科院一区, CCF A)**
 
 18. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
