@@ -90,7 +90,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
    "GLOSS: Global-Local Matching Network Towards Outfit Recommendation for Diverse Body Shapes and Scenes,"  
    **IEEE Transactions on Multimedia**, accepted 2025. **(中科院一区)**
 
-20. Chaokai Wu, Xiaofeng Zhang, **Jianghong Ma**,  
+20. Chaokai Wu, Xiaofeng Zhang, **Jianghong Ma\***,  
   "Understanding Over-Squashing in Dynamic Graphs,"  
   **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 2026. 
 
