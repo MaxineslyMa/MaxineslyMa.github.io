@@ -205,9 +205,10 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
   
   \# Equal Contributions
 
-1. Xiping Li, **Jianghong Ma\***, "AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning", Proceedings of the 64nd Annual Meeting of the Association for Computational Linguistics **(ACL 2026, CCF A)**, San Diego, California, USA, July 2-7, 2026, pp: ...
+1. Xiping Li, **Jianghong Ma\***,  
+ "AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning", Proceedings of the 64nd Annual Meeting of the Association for Computational Linguistics **(ACL 2026, CCF A)**, San Diego, California, USA, July 2-7, 2026, pp: ...
 
-1. **Jianghong Ma**\#, Changran He\# <font color="red">(Undergraduate)</font>, Dezhao Yang, Tianjun Wei, Haijun Zhang, Xiaofeng Zhang,  
+2. **Jianghong Ma**\#, Changran He\# <font color="red">(Undergraduate)</font>, Dezhao Yang, Tianjun Wei, Haijun Zhang, Xiaofeng Zhang,  
 "SGMT: Social Generating with Multiview-guided Tuning in Recommender Systems",  
 AAAI Conference on Artificial Intelligence **(AAAI 2026, CCF A)**, Singapore, January 20–January 27, 2026, pp: 15501-15509.
 
