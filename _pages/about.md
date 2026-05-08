@@ -205,9 +205,11 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
   
   \# Equal Contributions
 
+1. Xiping Li, **Jianghong Ma\***, "AIM-CoT: Active Information-driven Multimodal Chain-of-Thought for Vision-Language Reasoning", Proceedings of the 64nd Annual Meeting of the Association for Computational Linguistics **(ACL 2026, CCF A)**, San Diego, California, USA, July 2-7, 2026, pp: ...
+
 1. **Jianghong Ma**\#, Changran He\# <font color="red">(Undergraduate)</font>, Dezhao Yang, Tianjun Wei, Haijun Zhang, Xiaofeng Zhang,  
 "SGMT: Social Generating with Multiview-guided Tuning in Recommender Systems",  
-AAAI Conference on Artificial Intelligence **(AAAI 2026, CCF A)**, Singapore, January 20–January 27, 2026, pp: ...
+AAAI Conference on Artificial Intelligence **(AAAI 2026, CCF A)**, Singapore, January 20–January 27, 2026, pp: 15501-15509.
 
 3. **Jianghong Ma**, Yang Liu,  
    "Topic-aware Multi-Label Classification,"  
@@ -215,7 +217,7 @@ AAAI Conference on Artificial Intelligence **(AAAI 2026, CCF A)**, Singapore, Ja
 
 4. Jingmao Zhang\# <font color="red">(Undergraduate)</font>, Zhiting Zhao\#, Yunqi Lin\#, **Jianghong Ma\***, Tianjun Wei, Haijun Zhang, Xiaofeng Zhang,  
    “Diversity Recommendation via Causal Deconfounding of Co-purchase Relations and Counterfactual Exposure”,  
-   AAAI Conference on Artificial Intelligence **(AAAI 2026, CCF A)**, Singapore, January 20–January 27, 2026, pp: ...
+   AAAI Conference on Artificial Intelligence **(AAAI 2026, CCF A)**, Singapore, January 20–January 27, 2026, pp: 16325-16333.
 
 5. Jingmao Zhang\# <font color="red">(Undergraduate)</font>, Zhiting Zhao\#, Yunqi Lin, **Jianghong Ma\***, Tianjun Wei, Haijun Zhang, Xiaofeng Zhang,  
    “Dual-Phase Playtime-guided Recommendation: Interest Intensity Exploration and Multimodal Random Walks”,
