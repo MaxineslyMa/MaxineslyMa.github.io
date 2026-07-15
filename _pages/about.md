@@ -72,11 +72,11 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 15. Xiping Li <font color="red">(Undergraduate)</font>, Aier Yang, **Jianghong Ma\***, Kangzhe Liu, Shanshan Feng, Haijun Zhang, Yi Zhao,  
     "CPGRec+: A Balance-oriented Framework for Personalized Video Game Recommendations,"  
-    **ACM Transactions on Information Systems**, accepted 2025. **(CCF A)**    
+    **ACM Transactions on Information Systems**, 44(3): 1-44, February, 2026. **(CCF A)**    
     
 16. Sitao Lin\# <font color="red">(Undergraduate)</font>, Shuai Tang\#, Xiaofeng Zhang, **Jianghong Ma\***, Ziao Wang,  
     "CoDeR+: Interest-aware Counterfactual Reasoning for Sequential Recommendation,"  
-    **ACM Transactions on Information Systems**, accepted 2025. **(CCF A)**
+    **ACM Transactions on Information Systems**, 44(2): 1-39, January, 2026. **(CCF A)**
       
 17. Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***,  
    "FPSR+: Towards Robust, Efficient and Scalable Collaborative Filtering with Partition-aware Item Similarity Modeling,"  
@@ -92,7 +92,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 
 20. Chaokai Wu, Xiaofeng Zhang, **Jianghong Ma\***,  
   "Understanding Over-Squashing in Dynamic Graphs,"  
-  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 2026. 
+  **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, 56(5): 3396-3407, February, 2026. 
 
 21. Haijun Zhang, Xiangyu Mu, Guojian Li, Zhenhao Xu, Xinrui Yu, and **Jianghong Ma\***,  
    "Mannequin2Real: A Two-Stage Generation Framework for Transforming Mannequin Images into Photorealistic Model Images for Clothing Display,"  
