@@ -232,7 +232,7 @@ AAAI Conference on Artificial Intelligence **(AAAI 2026, CCF A)**, Singapore, Ja
    
 8. Tianjun Wei, Wei Wen, Ruizhi Qiao, Xing Sun, **Jianghong Ma\***,  
    "RocketEval: Efficient Automated LLM Evaluation via Grading Checklist,"  
-   13th International Conference on Learning Representations **(ICLR 2025, CORE A\*)**, Singapore, April 24-28, 2025. 
+   13th International Conference on Learning Representations **(ICLR 2025, CCF A)**, Singapore, April 24-28, 2025. 
 
 9. Xinyu Zhang, Shanshan Feng, **Jianghong Ma\***, Huiwei Lin, Xutao Li, Yunming Ye, Fan Li, Yew-Soon Ong,  
    "FRNet: Frequency-based Rotation Network for Long-term Time Series Forecasting,"     
