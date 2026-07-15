@@ -52,7 +52,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 8.  
    **作者：** Chenrui Ma, Huiyue Sun, **Jianghong Ma\***, Haijun Zhang, Yuxin Ding, and Zhao Zhang  
    **论文题目：** “GLOSS: Global-Local Matching Network Towards Outfit Recommendation for Diverse Body Shapes and Scenes”  
-   **发表地点：** **IEEE Transactions on Multimedia**, accepted, 2025. **(中科院一区)**
+   **发表地点：** **IEEE Transactions on Multimedia**, accepted, 2025. **(CCF A)**
 
 9.  
    **作者：** Chenrui Ma, Yuxin Ding, Haijun Zhang, **Jianghong Ma**, Zhao Zhang, Ye Wang, and Fei Tao  
@@ -192,7 +192,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 36.  
     **作者：** Dongliang Zhou, Haijun Zhang, Qun Li, **Jianghong Ma**, and Xiaofei Xu  
     **论文题目：** “COutfitGAN: Learning to Synthesize Compatible Outfits Supervised by Silhouette Masks and Fashion Styles”  
-    **发表地点：** **IEEE Transactions on Multimedia**, 25: 4986–5001, 2023. **(中科院一区)**
+    **发表地点：** **IEEE Transactions on Multimedia**, 25: 4986–5001, 2023. **(CCF A)**
 
 37.  
     **作者：** Mingbo Zhao, Shanchuan Gao, **Jianghong Ma\***, and Zhao Zhang  
