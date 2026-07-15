@@ -62,7 +62,7 @@ Jianghong Ma is an Associate Professor and Ph.D. Supervisor at Harbin Institute 
 10.  
     **作者：** Tianjun Wei, Tommy W.S. Chow, and **Jianghong Ma\***  
     **论文题目：** “FPSR+: Towards Robust, Efficient and Scalable Collaborative Filtering with Partition-aware Item Similarity Modeling”  
-    **发表地点：** **IEEE Transactions on Knowledge and Data Engineering**, 36(12): 8283–8296, December 2024. **(中科院一区，CCF A)**
+    **发表地点：** **IEEE Transactions on Knowledge and Data Engineering**, 36(12): 8283–8296, December 2024. **(CCF A)**
 
 11.  
     **作者：** **Jianghong Ma**, Huiyue Sun, Dezhao Yang, and Haijun Zhang  
